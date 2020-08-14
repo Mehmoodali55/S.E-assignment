@@ -1,0 +1,27 @@
+1. Title:  BUILDING TRUST IN A UNTRUSTABLE
+  
+  AUTHERS : Emilia Cioroaica,    Barbora Buhnova†,   Thomas Kuhn,    and   Daniel Schneider* 
+                Fraunhofer IESE, Kaiserslautern, Germany † Masaryk University, Brno, Czech Republic *                                       {emilia.cioroaica, thomas.kuhn, daniel.schneider}@iese.fraunhofer.de †{buhnova@mail.muni.cz}
+  
+CONFERENCE:
+
+
+ 
+2. INTRODUCTION :
+                                  
+
+      in every field of life trust plays a important role ,a truth is a firm in the reability,ability                                      or strength of someone or something
+     Trust is a major aspect in the relationship between humans and autonomous safety-critical                                     systems, such as autonomous vehicles. Although human errors may cause higher risks, failures of                              autonomous systems are more strongly perceived by the general population, which creates difficulities in the                 adoption of autonomous safety-critical systems. 
+     In the incressing of the population , technology and the general awerness of resourses accumption  and the need to     create a suitable and successful future require solutions is enable to aapted a ecolohgical technologies.. There is two     main characteristics that help to build a trust in human, namely emotion, and morality. the fact that autonomous     vehicles would compute the best tactical decision way in advance, which could lead to complete accident avoidance, the     affect characteristic of the trusting process leads to another difficulty.the number of persons will lost there life in    road accident ,many families lost there beloved family members . In Europe alone, 25,600 lives were lost on the roads    in 2016  which is a failure rate of 0.5x10-6 per hour. Assuming a 1000-fold improvement of self-driving vehicles,    which would decrease the failure rate but would still be two to three deaths per year.this is a sign that cant    improvement compared to the failures rate caused by human errors while driving, the engineers tryiny to  to create a    relationship of trust with human users. One major distinction between the users interaction with an automated as    opposed to that with an autonomous systems is the fact that while there are approaches for humans to monitor the    automated processes of a system, 
+
+   People have used machines for centuries to improve their mobility, first on the ground, later at sea, and then in the    air. While the next generation of cars will have a set of software functions that can be activated on demand, future    systems will be able to receive new capabilities in the field   We assume that future automotive systems will be    subject to continuous development and delivery of functions that adapt driving behavior and integrate cars into mobility    ecosystems. This vision relies on the runtime delivery of software smart agents that must interact with the underlying    platform in a trustworthy manner. The progress towards fully autonomous driving will be gradual. In the process of    achieving full driving autonomy, human responsibilities will gradually be replaced by autonomous driving functions. For    example, the function of adhering to speed limits around school areas, which is currently the drivers responsibility, will    very likely be controlled by software smart agents in the future. These might be downloaded when entering a city as a    precondition for obtaining driving permissions in that city. Acceptance for this kind of autonomy must be built up    gradually to ensure acceptance by both drivers and pedestrians. We therefore envision the incremental development of    autonomy on the road as a win-win situation for instrumenting the building of trust on both sides. In order to build a    trusting relationship, the driver and the system need to evolve together in a process that creates sustainable trust and    supports the interchange of the human trustee with a software smart agent.
+
+
+3. Research methodology (how the paper gathers and evaluates the results). 
+
+
+
+
+4. RESULT:
+
+               in every relations if there is no trust then the relatioship is useless,same way it is important to build a trust           among human and untrustable things like machines (automatic vehicals),with the increment/improvement  of          technology it will make us  lazy now a human want every facility at door step.initially people used machines to          make there journey better and easy first on ground ,later on sea and then on air .automatic vehicals provide a          better transportation but the human error can make many difficulties one is the increment in the number of road          accident but we will hope in future there will be a software agent in a automatic vehicals that will drive a car          itself we will hope that this techinique will decrease the numbers of road accidents.
